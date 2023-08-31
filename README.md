@@ -22,4 +22,4 @@ within the dynamic landscape of contemporary finance.
 
 ### DATA
 
-The dataset used for this project contains all available data for more than 300,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company. There are several different versions of this dataset. We have used a version available on kaggle.com. You can find it here.
+The dataset used for this project contains all available data for more than 300,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company. There are several different versions of this dataset. We have used a version available on kaggle.com. You can find it [here](https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1).
