@@ -19,3 +19,7 @@ By bridging the realms of data manipulation, statistical modeling, and financial
 is rich with understanding of the multifaceted process involved in assessing and mitigating credit risk.
 It recognizes the amalgamation of technology, data-driven insights, and financial expertise as the bedrock of effective risk management
 within the dynamic landscape of contemporary finance.
+
+### DATA
+
+The dataset used for this project contains all available data for more than 300,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company. There are several different versions of this dataset. We have used a version available on kaggle.com. You can find it here.
